@@ -89,9 +89,9 @@ The script will generate `model_info.txt` in `output`, containing the number of 
 
 
 ## Results
-![Real World Images](figs/Img1.PNG)
+![Real World Images](figs/Img1.jpg)
 ![Quantitative Results](figs/Img2.PNG)
-![Latency](figs/Img3.jpg)
+![Latency](figs/Img3.PNG)
 
 ## Contact
 If you have any questions or issues contact us via: <ali.murtaza.ali29@outlook.com>
@@ -108,6 +108,7 @@ If you find our repo useful for your research, please cite us:
 ```bibtex
 @article{
 }
+
 
 
 
