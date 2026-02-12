@@ -12,7 +12,7 @@ ICEML leverages dual embeddings from ASM and Retinex theory to train two complem
 This entangled learning enables each network to compensate for the other's weaknesses and allows the model to better understand and generalize across real-world haze distributions.
 Despite having only 0.534M and 1.068M parameters, the performance of our networks surpasses that of state-of-the-art methods across multiple datasets. RtxICE-Net further demonstrates real-time capability, processing 1024×1024 images at 33.5 FPS. These results underscore the effectiveness, efficiency, and practical adaptability of the ICEML-based single-image dehazing framework.
 
-![ICEML](figs/Figure 2.jpg)
+![ICEML](figs/Figure2.jpg)
 
 ## Environment and Dependencies:
 
@@ -108,6 +108,7 @@ If you find our repo useful for your research, please cite us:
 ```bibtex
 @article{
 }
+
 
 
 
