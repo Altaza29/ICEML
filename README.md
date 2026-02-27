@@ -3,7 +3,7 @@
 This is the official PyTorch implementation of our paper Inverse Consistency Entangled Mutual Learning Framework for Semi-Supervised Image Dehazing.  
 
 
-For more details: [[Official Link]()] 
+For more details: [[Official Link](https://doi.org/10.1109/ACCESS.2026.3664967)] 
 
 > **Abstract:** 
 Haze diminishes image quality by reducing contrast and obscuring details. Supervised dehazing models require real-world paired data, which are difficult to obtain. Semi-supervised methods offer a promising alternative but often rely on contrastive learning with unpaired clean images or atmospheric scattering model (ASM) embeddings. These strategies face limitations: contrastive learning struggles to provide effective guidance in scenes with light haze due to subtle feature differences, whereas ASM-based embeddings depend on physical assumptions that may not hold in complex real-world conditions.
@@ -108,6 +108,7 @@ If you find our repo useful for your research, please cite us:
 ```bibtex
 @article{
 }
+
 
 
 
